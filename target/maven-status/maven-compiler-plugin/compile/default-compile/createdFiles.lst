@@ -1,0 +1,5 @@
+com/example/model/ExampleController.class
+com/example/service/ClasspathScannerService.class
+com/example/annotation/ScanMe.class
+com/example/controller/ScanController.class
+com/example/Sprint2BisApplication.class
